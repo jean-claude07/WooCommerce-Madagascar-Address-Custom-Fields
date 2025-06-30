@@ -75,7 +75,7 @@ Personnalisez l'expérience de checkout WooCommerce pour Madagascar : régions, 
 
 ## 🖥️ Capture d’écran
 
-![Exemple de checkout Madagascar](https://user-images.githubusercontent.com/0000000/che![custom _field_woocomerce](https://github.com/user-attachments/assets/e713fcf0-ebae-40ae-a2aa-9414cf2b24b3))
+![custom _field_woocomerce](https://github.com/user-attachments/assets/ad9ef7e4-46c6-4aff-adcc-817f63483bcb)
 
 ---
 
